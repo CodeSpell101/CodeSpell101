@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeSpell101
+- 👋 Hi, I’m @Denis
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on ...
